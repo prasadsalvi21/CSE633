@@ -1,0 +1,3 @@
+The aim of this Master’s Project was to implement Shell Sort algorithm on Multiple processor and execute it in parallel. 
+The parallel shell sort uses MPI (Message Passing Interface) to communicate within processors and share resources. 
+The project was run on UB-CCR High computing infrastructure to collect running time of algorithm on different sets of processor and present the optimal processor configuration.
